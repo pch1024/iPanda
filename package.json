@@ -1,0 +1,32 @@
+{
+  "name": "ipanda",
+  "version": "1.0.0",
+  "description": "A library using tinypng to automatically compress pictures",
+  "main": "src/panda.js",
+  "filename": "panda.js",
+  "bin": {
+    "panda": "src/panda.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "panda",
+    "tinypng"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pch1024/iPanda.git"
+  },
+  "homepage": "https://github.com/pch1024/iPanda#readme",
+  "maintainers": [{
+    "name": "philip.pei",
+    "web": "peichenhu.cn",
+    "mail": "pch1024@outlook.com"
+  }],
+  "author": "philip.pei",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.17.1"
+  }
+}
