@@ -2,10 +2,10 @@
   "name": "ipanda",
   "version": "1.0.0",
   "description": "A library using tinypng to automatically compress pictures",
-  "main": "src/panda.js",
-  "filename": "panda.js",
+  "main": "src/ipanda.js",
+  "filename": "ipanda.js",
   "bin": {
-    "panda": "src/panda.js"
+    "ipanda": "src/ipanda.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
